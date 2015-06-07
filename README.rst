@@ -1,19 +1,5 @@
-Python Module Skeleton
-======================
+Hyper Learn
+===========
 
-This is an adaptation of a sample Python module `skeleton`_
-used to help assist in making Python projects more easily.
-
-Usage
------
-
-Download this repo and then adjust the files to your use for your project.
-
-License
--------
-
-Uses the `MIT`_ license.
-
-
-.. _MIT: http://opensource.org/licenses/MIT
-.. _skeleton: https://github.com/streeter/python-skeleton
+A previous version of this project can be found here:
+https://github.com/massich/sampling_strategy/tree/develop
